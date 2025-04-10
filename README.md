@@ -1,0 +1,1 @@
+This project is a landing page built with HTML/CSS and JavaScript and is inspired by RockstarGames website. Some images are also used from Rockstar games. This is just a project for learning and educational purposes.
